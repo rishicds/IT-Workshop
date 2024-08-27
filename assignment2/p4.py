@@ -1,0 +1,1 @@
+print("Acute angle" if (x:=int(input()))<90 else "Obtuse angle" if x>90  else "Right Angle")

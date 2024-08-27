@@ -1,0 +1,2 @@
+carname="volvo"
+print(carname)
